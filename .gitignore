@@ -1,0 +1,8 @@
+# Raw data is large - download from Kaggle instead (see README)
+data/*.csv
+# Power BI / OS / editor noise
+*.pbi*.tmp
+~$*
+.DS_Store
+Thumbs.db
+.vscode/
